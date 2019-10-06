@@ -1,0 +1,39 @@
+h1{
+ color:blue;
+ text-align:center;
+}
+p{
+  color: red;
+}
+#hello{
+  font-family: arial,sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  border: 5px solid blue;
+}
+table{
+  border: 3px solid black;
+  margin: 3px;
+  border-collapse: collapse;
+  width: 40%;
+  text-align: center;
+}
+td,th{
+    border: 1px solid black;
+    padding: 5px 3px;
+}
+th{
+  background-color: lightgray;
+}
+#top{
+  font-size: 36px;
+}
+#middle{
+  font-size: 24px;
+}
+#bottom{
+  font-size: 12px;
+}
+.name{
+  font-weight: bold;
+}
